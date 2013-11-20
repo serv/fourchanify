@@ -1,6 +1,6 @@
-# Fourchanify
-
 ![logo](http://i.imgur.com/5PxtIzB.png)
+
+# Fourchanify
 
 Fourchanify lets you download images for a 4chan thread from your terminal.
 

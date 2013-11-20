@@ -2,7 +2,7 @@
 
 # Fourchanify
 
-Fourchanify lets you download images for a 4chan thread from your terminal.
+Fourchanify lets you download images from a 4chan thread from your terminal.
 
 ## Installation
 

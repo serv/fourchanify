@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+
+require 'fourchanify'
+
+if ARGV[0]
+  Fourchanify::Request.download(ARGV[0])
+else
+  puts "Usage:"
+  puts "  $ fourchanify [4chan_url]"
+  puts "  example of 4chan_url: http://boards.4chan.org/mu/res/32745718"
+end

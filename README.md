@@ -11,7 +11,9 @@ Fourchanify works with Ruby 1.9.3 and Ruby 2.0.0.
 1. Open terminal.
 2. Run this command.
 
-	$ gem install fourchanify
+```
+$ gem install fourchanify
+```
 
 ## Usage
 

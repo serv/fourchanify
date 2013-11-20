@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["active_red@hotmail.com"]
   spec.description   = %q{Download images from 4chan to your computer given a thread url}
   spec.summary       = %q{Download images from 4chan to your computer}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/serv/fourchanify"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)

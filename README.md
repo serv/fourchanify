@@ -17,8 +17,10 @@ Fourchanify works with Ruby 1.9.3 and Ruby 2.0.0.
 2. Navigate to the directory where you want to download the images.
 3. Run this command.
 
-    $ fourchanify [4chan_url]
-    as an example: fourchanify http://boards.4chan.org/mu/res/32745718
+```
+$ fourchanify [4chan_url]
+as an example: fourchanify http://boards.4chan.org/mu/res/32745718
+```
 
 ## Contributing
 

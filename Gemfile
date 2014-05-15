@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 # Specify your gem's dependencies in fourchanify.gemspec
 gemspec
 
-gem "fourchan-urler"
+gem 'fourchan-urler', '~> 0.0.5'
 gem "json"
 
 group :development, :test do

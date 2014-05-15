@@ -2,6 +2,8 @@
 
 # Fourchanify
 
+[![Code Climate](https://codeclimate.com/github/serv/fourchanify.png)](https://codeclimate.com/github/serv/fourchanify)
+
 Fourchanify lets you download images from a 4chan thread from your terminal.
 
 ## Installation
